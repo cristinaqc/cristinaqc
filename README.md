@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on beginner-level coding projects that involve Java.
 - 🤔 I’m looking for help with debugging complex code and understanding advanced Git commands.
 - 💬 Ask me about GitHub basics, Java tips for beginners, or anything tech-related!
-- 📫 How to reach me: You can contact me via my email, cristina@example.com.
 - 😄 Pronouns: She/her.
 - ⚡ Fun fact: I can memorize things quickly and love organizing tasks!
 
